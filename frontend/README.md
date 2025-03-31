@@ -1,3 +1,3 @@
 # backend-apitester-frontend
 
-un petit frontend en html/css/js à utiliser avec votre backend en développement
+Le frontend en html/css/js qui va avec le backend
